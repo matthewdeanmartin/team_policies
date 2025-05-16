@@ -123,3 +123,7 @@ If the team is all in on AI, some practices
   try to keep LLM commits separate.
 - Add a link to the conversation
 - Include prompt in the comments
+
+## LLM and Estimates
+- Make estimates, assuming that you will get no help from an LLM.
+- 
